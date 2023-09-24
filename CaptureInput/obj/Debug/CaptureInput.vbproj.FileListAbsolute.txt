@@ -1,0 +1,13 @@
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\bin\Debug\CaptureInput.exe.config
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\bin\Debug\CaptureInput.exe
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\bin\Debug\CaptureInput.pdb
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\bin\Debug\CaptureInput.xml
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.vbproj.AssemblyReference.cache
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.Form1.resources
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.Resources.resources
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.vbproj.GenerateResource.cache
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.vbproj.CoreCompileInputs.cache
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.exe
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.xml
+C:\Users\Monkey D. Luffy\source\repos\CaptureInput\obj\Debug\CaptureInput.pdb

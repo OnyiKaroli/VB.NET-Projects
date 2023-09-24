@@ -1,0 +1,13 @@
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\bin\Debug\ArithmeticHandling.exe.config
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\bin\Debug\ArithmeticHandling.exe
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\bin\Debug\ArithmeticHandling.pdb
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\bin\Debug\ArithmeticHandling.xml
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.vbproj.AssemblyReference.cache
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.Form1.resources
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.Resources.resources
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.vbproj.GenerateResource.cache
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.vbproj.CoreCompileInputs.cache
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.exe
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.xml
+C:\Users\Monkey D. Luffy\source\repos\ArithmeticHandling\obj\Debug\ArithmeticHandling.pdb

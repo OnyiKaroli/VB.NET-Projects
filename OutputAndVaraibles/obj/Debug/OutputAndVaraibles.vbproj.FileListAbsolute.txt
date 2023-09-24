@@ -1,0 +1,13 @@
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\bin\Debug\OutputAndVaraibles.exe.config
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\bin\Debug\OutputAndVaraibles.exe
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\bin\Debug\OutputAndVaraibles.pdb
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\bin\Debug\OutputAndVaraibles.xml
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.vbproj.AssemblyReference.cache
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.Form1.resources
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.Resources.resources
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.vbproj.GenerateResource.cache
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.vbproj.CoreCompileInputs.cache
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.exe
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.xml
+C:\Users\Monkey D. Luffy\source\repos\OutputAndVaraibles\obj\Debug\OutputAndVaraibles.pdb

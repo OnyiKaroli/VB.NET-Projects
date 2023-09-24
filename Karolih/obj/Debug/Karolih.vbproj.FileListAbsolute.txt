@@ -1,0 +1,13 @@
+C:\Users\Monkey D. Luffy\source\repos\Karolih\bin\Debug\Karolih.exe.config
+C:\Users\Monkey D. Luffy\source\repos\Karolih\bin\Debug\Karolih.exe
+C:\Users\Monkey D. Luffy\source\repos\Karolih\bin\Debug\Karolih.pdb
+C:\Users\Monkey D. Luffy\source\repos\Karolih\bin\Debug\Karolih.xml
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.vbproj.AssemblyReference.cache
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.Form1.resources
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.Resources.resources
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.vbproj.GenerateResource.cache
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.vbproj.CoreCompileInputs.cache
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.exe
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.xml
+C:\Users\Monkey D. Luffy\source\repos\Karolih\obj\Debug\Karolih.pdb
