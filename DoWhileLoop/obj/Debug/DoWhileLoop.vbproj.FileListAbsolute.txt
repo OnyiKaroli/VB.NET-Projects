@@ -1,0 +1,13 @@
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\bin\Debug\DoWhileLoop.xml
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.vbproj.AssemblyReference.cache
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.Form1.resources
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.Resources.resources
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.vbproj.GenerateResource.cache
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.vbproj.CoreCompileInputs.cache
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.exe
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.xml
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\DoWhileLoop\obj\Debug\DoWhileLoop.pdb
