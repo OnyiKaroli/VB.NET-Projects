@@ -66,37 +66,37 @@ Public Class frmDashboard
         End If
     End Sub
 
-    Private Sub btnDashboard_Click(sender As Object, e As EventArgs) Handles btnDashboard.Click
+    Private Sub btnDashboard_Click(sender As Object, e As EventArgs)
         ActivateButton(sender, Color.FromArgb(189, 195, 199))
         OpenChildForm(New frmOverview)
     End Sub
 
-    Private Sub btnProducts_Click(sender As Object, e As EventArgs) Handles btnProducts.Click
+    Private Sub btnProducts_Click(sender As Object, e As EventArgs)
         ActivateButton(sender, Color.FromArgb(189, 195, 199))
         OpenChildForm(New frmProducts)
     End Sub
 
-    Private Sub btnInventory_Click(sender As Object, e As EventArgs) Handles btnInventory.Click
+    Private Sub btnInventory_Click(sender As Object, e As EventArgs)
         ActivateButton(sender, Color.FromArgb(189, 195, 199))
         OpenChildForm(New frmInventory)
     End Sub
 
-    Private Sub btnStocks_Click(sender As Object, e As EventArgs) Handles btnStocks.Click
+    Private Sub btnStocks_Click(sender As Object, e As EventArgs)
         ActivateButton(sender, Color.FromArgb(189, 195, 199))
         OpenChildForm(New frmStocks)
     End Sub
 
-    Private Sub btnReports_Click(sender As Object, e As EventArgs) Handles btnReports.Click
+    Private Sub btnReports_Click(sender As Object, e As EventArgs)
         ActivateButton(sender, Color.FromArgb(189, 195, 199))
         OpenChildForm(New frmReports)
     End Sub
 
-    Private Sub btnSettings_Click(sender As Object, e As EventArgs) Handles btnSettings.Click
+    Private Sub btnSettings_Click(sender As Object, e As EventArgs)
         ActivateButton(sender, Color.FromArgb(189, 195, 199))
         OpenChildForm(New frmSettings)
     End Sub
 
-    Private Sub btnLogOut_Click(sender As Object, e As EventArgs) Handles btnLogOut.Click
+    Private Sub btnLogOut_Click(sender As Object, e As EventArgs)
         If currentChildForm IsNot Nothing Then
             currentChildForm.Close()
         End If
@@ -109,5 +109,9 @@ Public Class frmDashboard
         picCurrentIco.IconChar = IconChar.House
         picCurrentIco.IconColor = Color.Silver
         lblFormTitle.Text = "Home"
+    End Sub
+
+    Private Sub BackgroundWorker1_DoWork(sender As Object, e As System.ComponentModel.DoWorkEventArgs)
+
     End Sub
 End Class
