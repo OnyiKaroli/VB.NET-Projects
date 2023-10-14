@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "T2Nu8SaSh4RXGwhkPcTVOgs84mNyULSBZ25egR+xZtqRcu9UOrylS6k1eCHPBxCGgbjyfwWf7tnJrzFdLzUOSg==",
+  "dgSpecHash": "dypqKmT9mfUSNlqsrftvzzf4dQX2Nz646NqlifUJNReQt5Levstw8Oe6q6c/dVG/w/8FIgwiS/U1E6DXNkNCTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Monkey D. Luffy\\source\\repos\\VB.NET-Projects\\StandAlonePOS\\StandAlonePOS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Monkey D. Luffy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Monkey D. Luffy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Monkey D. Luffy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Monkey D. Luffy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
