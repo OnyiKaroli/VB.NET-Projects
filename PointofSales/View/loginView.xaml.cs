@@ -34,5 +34,15 @@ namespace PointofSales.View
         {
             WindowState = WindowState.Minimized;
         }
+
+        private void btnClose_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
