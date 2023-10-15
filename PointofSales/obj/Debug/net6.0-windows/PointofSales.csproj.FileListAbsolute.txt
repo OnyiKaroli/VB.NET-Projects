@@ -3,7 +3,6 @@ C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\bin\Debug\net
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\bin\Debug\net6.0-windows\PointofSales.runtimeconfig.json
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\bin\Debug\net6.0-windows\PointofSales.dll
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\bin\Debug\net6.0-windows\PointofSales.pdb
-C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\PointofSales.csproj.AssemblyReference.cache
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\View\loginView.g.cs
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\App.g.cs
@@ -21,3 +20,6 @@ C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\PointofSales.pdb
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\PointofSales.genruntimeconfig.cache
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\ref\PointofSales.dll
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.g.cs
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.baml

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\App.xaml
-21368356370
+3-1941382559
 
-61486074545
-1941709816142
-MainWindow.xaml;View\loginView.xaml;
+10807806479
+194-2067936865
+CustomControls\BindablePasswordBox.xaml;MainWindow.xaml;View\loginView.xaml;
 
-False
+True
 
