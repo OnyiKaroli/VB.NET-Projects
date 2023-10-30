@@ -22,10 +22,10 @@ namespace PointofSales.ViewModel
 
         public ViewModelCommand(Action<object> executeAction, Predicate<object> canExecuteAction)
         {
-            _executeAction= executeAction;
-            _canExecuteAction= canExecuteAction;
+            _executeAction = executeAction;
+            _canExecuteAction = canExecuteAction;
         }
-        
+
         //Events
         public event EventHandler CanExecuteChanged
         {

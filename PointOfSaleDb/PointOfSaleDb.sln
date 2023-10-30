@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PointOfSaleDb", "PointOfSaleDb.sqlproj", "{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532F44AE-6AF9-4CB7-93E7-FA2A262F21FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5590160E-4599-48F4-B88B-72F9BBA365FA}
+	EndGlobalSection
+EndGlobal

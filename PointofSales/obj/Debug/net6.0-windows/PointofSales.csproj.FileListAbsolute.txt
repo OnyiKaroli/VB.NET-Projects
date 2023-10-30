@@ -23,3 +23,4 @@ C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.g.cs
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.baml
+C:\Users\Monkey D. Luffy\source\repos\VB.NET-Projects\PointofSales\obj\Debug\net6.0-windows\PointofSales.csproj.AssemblyReference.cache
